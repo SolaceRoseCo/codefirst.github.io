@@ -1,0 +1,31 @@
+h1{
+	color:red;
+	text-align: center;
+}
+
+h2{
+		color: green;
+		background: orange;
+
+	}
+
+ul li{
+	background: yellow;
+}
+
+ol li{
+	background: #1BA5B1;
+
+
+}
+p{ color: blue;
+	font-family: Helvetica;
+	font-size: 16px;
+
+}
+
+.className
+{
+	color:blue;
+}
+
